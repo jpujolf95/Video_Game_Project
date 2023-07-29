@@ -3,7 +3,6 @@ Video_Game
 
 # Game Rating Analysis Project
 
-![Game Rating Analysis](https://your-game-project-url.com/images/game_rating_analysis.png)
 
 ## Table of Contents
 
@@ -14,7 +13,6 @@ Video_Game
 5. [Exploratory Data Analysis](#exploratory-data-analysis)
 6. [Modeling](#modeling)
 7. [Usage](#usage)
-8. [License](#license)
 
 ## 1. Introduction
 
@@ -59,10 +57,6 @@ To use or reproduce this project:
 3. Run the data collection and preprocessing scripts.
 4. Execute the Jupyter notebooks for EDA and modeling.
 5. Explore the results and conclusions obtained from the analysis.
-
-## 8. License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as permitted by the terms of the license.
 
 ---
 
